@@ -51,6 +51,7 @@ nav {
     display: grid;
     grid-template-columns: 1fr 5fr;
     padding: 50px 0;
+    position: relative;
 }
 
 .content__menu {
